@@ -10,7 +10,7 @@ Simula um sistema de doações onde pra cada peça de roupa que voçê doar ganh
 
 ##Desenvolvedores :
 
-Joseanny Dulce
+Joseanny Dulce / joseanny-d
 
 Paulo Henrique
 
